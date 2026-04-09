@@ -27,8 +27,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soufianekhiat&amp;label=Profile%20views&amp;color=5BC2E7&amp;style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/soufianekhiat?label=Followers&amp;style=flat&amp;color=5BC2E7" alt="GitHub followers" />
   <img src="https://img.shields.io/github/stars/soufianekhiat?affiliations=OWNER%2CCOLLABORATOR&amp;label=Total%20stars&amp;style=flat&amp;color=CC7858" alt="GitHub stars" />
 </p>
 
