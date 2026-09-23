@@ -63,7 +63,7 @@
 <td valign="top" width="50%">
 
 ### More public work
-- [qaws](https://github.com/soufianekhiat/qaws)  
+- [qaws (قوس)](https://github.com/soufianekhiat/qaws)  
   <img src="https://img.shields.io/github/stars/soufianekhiat/qaws?style=flat-square" alt="qaws stars" />
   <img src="https://img.shields.io/github/forks/soufianekhiat/qaws?style=flat-square" alt="qaws forks" />
 
