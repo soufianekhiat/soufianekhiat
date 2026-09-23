@@ -67,6 +67,11 @@
   <img src="https://img.shields.io/github/stars/soufianekhiat/qaws?style=flat-square" alt="qaws stars" />
   <img src="https://img.shields.io/github/forks/soufianekhiat/qaws?style=flat-square" alt="qaws forks" />
 
+
+- [NumHalide](https://github.com/soufianekhiat/alwan)  
+  <img src="https://img.shields.io/github/stars/soufianekhiat/alwan?style=flat-square" alt="Alwan stars" />
+  <img src="https://img.shields.io/github/forks/soufianekhiat/alwan?style=flat-square" alt="Alwan forks" />
+  
 - [NumHalide](https://github.com/soufianekhiat/NumHalide)  
   <img src="https://img.shields.io/github/stars/soufianekhiat/NumHalide?style=flat-square" alt="NumHalide stars" />
   <img src="https://img.shields.io/github/forks/soufianekhiat/NumHalide?style=flat-square" alt="NumHalide forks" />
