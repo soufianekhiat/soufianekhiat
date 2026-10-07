@@ -35,7 +35,7 @@
 ## Open-source highlights
 
 <p align="center">
-  Public work around <strong>rendering</strong>, <strong>geometry</strong>, <strong>Dear ImGui</strong>, <strong>Halide</strong>, and lightweight native tooling.
+  Public work around <strong>rendering</strong>, <strong>geometry</strong>, <strong>colour science</strong>, <strong>Dear ImGui</strong>, <strong>Halide</strong>, and lightweight native tooling.
 </p>
 
 <p align="center">
@@ -67,11 +67,10 @@
   <img src="https://img.shields.io/github/stars/soufianekhiat/qaws?style=flat-square" alt="qaws stars" />
   <img src="https://img.shields.io/github/forks/soufianekhiat/qaws?style=flat-square" alt="qaws forks" />
 
-
 - [Alwan (ألوان)](https://github.com/soufianekhiat/alwan)  
   <img src="https://img.shields.io/github/stars/soufianekhiat/alwan?style=flat-square" alt="Alwan stars" />
   <img src="https://img.shields.io/github/forks/soufianekhiat/alwan?style=flat-square" alt="Alwan forks" />
-  
+
 - [NumHalide](https://github.com/soufianekhiat/NumHalide)  
   <img src="https://img.shields.io/github/stars/soufianekhiat/NumHalide?style=flat-square" alt="NumHalide stars" />
   <img src="https://img.shields.io/github/forks/soufianekhiat/NumHalide?style=flat-square" alt="NumHalide forks" />
@@ -149,6 +148,9 @@ A widget-oriented extension around Dear ImGui ideas and workflows.
 ### [ImPlatform](https://github.com/soufianekhiat/ImPlatform)
 A platform layer aimed at simplifying multiplatform development with Dear ImGui.
 
+### [Alwan (ألوان)](https://github.com/soufianekhiat/alwan)
+Dependency-free colour science library in pure C11: colour space conversions, chromatic adaptation, appearance models, and spectral operations. A colour *science* library, not a colour *management* one — for ICC workflows it complements tooling such as LittleCMS.
+
 ### More on my profile →
 Open-source experiments around rendering, tooling, UI systems, and low-level graphics infrastructure.
 
@@ -166,16 +168,6 @@ Open-source experiments around rendering, tooling, UI systems, and low-level gra
 A <strong>C++20 header-only</strong> library that brings <strong>Taichi-style hierarchical sparse data structures (SNode trees)</strong> to the Halide compute framework.
 
 Define a sparse hierarchy once with a fluent builder API. SparseHalide generates the appropriate Halide <code>Expr</code> index chains, buffer bindings, and scatter kernels automatically — so you can focus on simulation and compute logic instead of plumbing.
-</details>
-
-<details>
-<summary><strong>Alwan (ألوان)</strong> — dependency-free colour science in pure C11</summary>
-<br/>
-A small, dependency-free <strong>colour science</strong> library in pure <strong>C11</strong>, built for precise and deterministic colour transformations without the overhead of external dependencies.
-
-Alwan provides the mathematical foundations: colour space conversions, chromatic adaptation, appearance models, and spectral operations.
-
-It is a <strong>colour science library</strong>, <em>not</em> a colour management library. It does not handle ICC profiles, device characterization, rendering intents, or profile connection spaces. For ICC workflows, Alwan is intended to complement dedicated tooling such as LittleCMS.
 </details>
 
 <details>
@@ -217,7 +209,7 @@ This one is still exploratory and may or may not be released.
 <details>
 <summary><strong>Secrets</strong> — ...</summary>
 <br/>
-Lot of protoypes, early stages, R&D, ... Rendering Techniques, Image and Geometry processing, Math Solvers (Proximal, Iterative, ...), and tons of applications of Optimal Transport!.
+Lots of prototypes, early stages, R&D, ... Rendering Techniques, Image and Geometry processing, Math Solvers (Proximal, Iterative, ...), and tons of applications of Optimal Transport!.
 </details>
 
 ---
