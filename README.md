@@ -133,7 +133,7 @@ Most of my work lives where **research ideas**, **systems programming**, and **u
 ### [ImAnim](https://github.com/soufianekhiat/ImAnim)
 Animation engine for Dear ImGui, designed to bring modern animation workflows to immediate-mode UIs with minimal integration friction.
 
-### [qaws](https://github.com/soufianekhiat/qaws)
+### [qaws (قوس)](https://github.com/soufianekhiat/qaws)
 Dependency-free C11 library for creating, evaluating, sampling, traversing, and inspecting parametric curves and surfaces in 2D and 3D, with backends including C, HLSL, GLSL, and Halide.
 
 ### [NumHalide](https://github.com/soufianekhiat/NumHalide)
